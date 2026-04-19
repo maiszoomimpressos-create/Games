@@ -1,0 +1,13 @@
+# Dependências e builds
+**/node_modules/
+**/dist/
+*.log
+
+# Credenciais locais (nunca enviar)
+TRILHA/.env
+TRILHA/.env.*
+!TRILHA/.env.example
+
+# Sistema
+Thumbs.db
+.DS_Store
