@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "cd TRILHA && npm install",
+  "buildCommand": "cd TRILHA && npm run build -w web",
+  "outputDirectory": "TRILHA/web/dist"
+}
